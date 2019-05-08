@@ -1,5 +1,6 @@
 backend:
-  name: trabbl
+  name: github
+  repo: trabbl
 
 media_folder: content/assets
 public_folder: content/blog
